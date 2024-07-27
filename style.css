@@ -250,28 +250,3 @@ color: rgb(115, 25, 146);
 .c2{
   font-size: 15px;
 }
-
-@media (max-width: 1250px) {
-    .pricing-container {
-     flex-direction: column;
-      height: 100%;
-    }
-    .grid-review{
-      margin: 10px;
-      flex-direction: column;
-      height: 200vh;
-    }
-    .grid{
-      padding: 0px;
-    }
-    .bottom-container{
-      margin-top: 10px;
-    }
-    .h3{
-      margin: 20px;
-      padding: 20px;
-    }
-    .bottom-right{
-      justify-content: space-evenly;
-    }
-}
